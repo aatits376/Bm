@@ -882,8 +882,9 @@
     left: 124px;
   }
   .hero .profile-pic {
-    top: 29%;
-    left: 43%;
+    top: 33%;
+    height:500px;
+    left: 45%;
   }
   .hero .profession {
     font-size: 31px;
